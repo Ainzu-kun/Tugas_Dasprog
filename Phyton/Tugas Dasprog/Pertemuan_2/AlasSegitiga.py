@@ -12,4 +12,4 @@ tinggi = int(input("Masukkan Tinggi Segitiga : "))
 # tinggi = float(int(input("Masukkan Tinggi Segitiga : "))
 
 Hasil = 1/2 * alas * tinggi
-print(Hasil)
+print(f"Hasilnya adalah {Hasil}")
