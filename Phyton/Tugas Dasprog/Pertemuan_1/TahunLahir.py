@@ -2,6 +2,7 @@
 # NIM       : 2403342
 # Kelas     : RPL 1B
 
+# Latihan Awal
 
 print ("\n======Selamat datang======\n")
 Nama = input("Masukkan Nama Anda :  ")
